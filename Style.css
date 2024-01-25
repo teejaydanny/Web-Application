@@ -1,0 +1,44 @@
+.banner{
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 350px;
+    height: 500px;
+}
+body{
+    background-color: mediumturquoise;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    min-height: 50vh;
+}
+.banner h1{
+    font-family: Chandas;
+    color: aqua;
+    text-align: left;
+
+}
+.banner input{
+    width: 80%;
+    position: relative;
+    margin: 10px;
+    background: darkcyan;
+    text-decoration: underline;
+
+}
+.button{
+    background-color: grey;
+    padding: 10px;
+    text-align: center;
+
+}
+.banner label{
+    margin: 10px 20px;
+}
+.button button{
+    padding: 10px 20px;
+    width: 200x;
+    color: white;
+    background-color: black;
+
+}
